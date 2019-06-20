@@ -1,3 +1,8 @@
 
+<<<<<<< HEAD
 
 Creado en el Directorio de trabajo local
+=======
+Creado desde la WEb de GitHub
+Ok!
+>>>>>>> f79e05e765a2cc60d39783709c29823cc6959216
